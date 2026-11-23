@@ -132,7 +132,7 @@ My technical skills are still developing. I'm focused on understanding the funda
 ## 08 / Connect With Me
 
 <div align="center">
-
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_With_Me-087BDF?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/swetta-sundar-74a779444/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-swetta08-0757B9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/swetta08)
